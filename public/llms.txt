@@ -1,0 +1,82 @@
+# חנות הסקווישים של גילי וירדן 🫶 — Generative Engine Optimization Map
+
+> A business centered around squishies — soft, squeezable collectible toys popular among kids and teens. The brand likely carries a fun, playful, and colorful vibe, appealing to a young audience that enjoys tactile and stress-relief toys.
+
+---
+
+## Pages
+
+### בית
+https://-0f31d7cd.zappy5.app
+צללו לעולם קסום של צעצועי סקוויש רכים ומפנקים להפגת מתחים. מושלם לילדים ובני נוער שאוהבים לאסוף, למעוך וליהנות. כנסו עכשיו וגלו את האוסף החדש!
+
+### אודות
+https://-0f31d7cd.zappy5.app/about
+גילי וירדן מזמינים אתכם להכיר את המסע הצבעוני מאחורי חנות הסקווישים. תשוקה אמיתית לצעצועי איסוף, חיוכים של ילדים וקהילה שאוהבת למעוך את היום. בואו להיות חלק מהכיף!
+
+### גלריה
+https://-0f31d7cd.zappy5.app/gallery
+דפדפו בגלריה הכי סחיטה שיש! מאות תמונות של סקווישים נדירים, צעצועי fall guys ופריטי אספנות של מסע בין כוכבים. כל לחיצה היא השראה לאוסף הבא שלכם.
+
+### צור קשר
+https://-0f31d7cd.zappy5.app/contact
+רוצים להזמין סקוויש מיוחד או סתם להגיד היי? צרו קשר עם גילי וירדן! אנחנו כאן לכל שאלה על צעצועי איסוף, משלוחים והמלצות אישיות. נשמח לשמוע מכם וללחוץ יחד.
+
+### Products
+https://-0f31d7cd.zappy5.app/products
+המוצרים שלנו - חנות הסקווישים של גילי וירדן 🫶
+
+### Product Detail
+https://-0f31d7cd.zappy5.app/product/:slug
+פרטי המוצר - חנות הסקווישים של גילי וירדן 🫶
+
+### Category
+https://-0f31d7cd.zappy5.app/category/:slug
+מוצרים - חנות הסקווישים של גילי וירדן 🫶
+
+### תודה שפניתם אלינו
+https://-0f31d7cd.zappy5.app/thank-you
+חנות הסקווישים של גילי וירדן 🫶 - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-0f31d7cd.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-0f31d7cd.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-0f31d7cd.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About חנות הסקווישים של גילי וירדן 🫶
+A business centered around squishies — soft, squeezable collectible toys popular among kids and teens. The brand likely carries a fun, playful, and colorful vibe, appealing to a young audience that enjoys tactile and stress-relief toys.
+
+## Target Audience
+- בני נוער עוקבי טרנדים
+
+## Industry
+Toys & Collectibles
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-0f31d7cd.zappy5.app/sitemap.xml
+- Robots: https://-0f31d7cd.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-0f31d7cd.zappy5.app/llms-full.txt
+- Products (JSON): https://-0f31d7cd.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-0f31d7cd.zappy5.app/product-feed.xml
